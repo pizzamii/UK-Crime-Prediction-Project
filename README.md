@@ -1,6 +1,6 @@
 # UK-Crime-Prediction-Project
 
-This repository contains the full implementation of the **UK Crime Prediction and Visualization System**, a final-year BUPT-QMUL joint programme project by **Gao Yuxuan** (2021123456). The goal of this project is to forecast regional crime volumes using machine learning models and to provide an interactive visualization tool to support public safety strategy and urban resource planning.
+This repository contains the full implementation of the **UK Crime Prediction and Visualization System**, a final-year BUPT-QMUL joint programme project by **Gao Yuxuan**. The goal of this project is to forecast regional crime volumes using machine learning models and to provide an interactive visualization tool to support public safety strategy and urban resource planning.
 
 ## Project Objectives
 
